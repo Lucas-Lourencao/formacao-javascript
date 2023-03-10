@@ -1,0 +1,19 @@
+Seção 01: 
+
+Anotações
+
+-> Aula 01:
+    - Instalação do Node.js no Windows;
+    - Instalação do VSC no Windows;
+    - Instalação do Chorme no Windows;
+
+-> Aula 02:
+    - Instalação do Node.js no Linux;
+    - Instalação do VSC no Linux;
+    - Instalação do Chorme no Linux;
+
+-> Aula 03, 04 e 05: 
+    - Introdução e explicações sobre o curso;
+
+-> Aula 06:
+    - Aviso de inserção da seção de HTML e CSS;
